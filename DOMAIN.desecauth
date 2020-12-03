@@ -1,0 +1,7 @@
+## File DOMAIN.desecauth
+## This file contains the authorization token for deSEC for a given domain.
+## The file must be renamed to DOMAIN.desecauth, i.e. example.com.desecauth
+## and should be owned by root with chmod 600.
+## code: language=bash
+
+DESEC_TOKEN=""
